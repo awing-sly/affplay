@@ -1,0 +1,4 @@
+# ninja log v5
+0	1791	1563176769	CMakeFiles/native-ffplay.dir/native-lib.cpp.o	b62213d176ba9b2f
+0	518	1563176860	CMakeFiles/native-ffplay.dir/cmdutils.c.o	d9b07b2e68b765dc
+0	605	1563176860	CMakeFiles/native-ffplay.dir/ffplay.c.o	8bb2be263966c5a0

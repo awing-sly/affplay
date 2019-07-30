@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/home/awing/Android/Sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/home/awing/myworkspaces/affplay/app/src/main/cpp/CMakeLists.txt",
+    "/home/awing/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/home/awing/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build \"/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/x86_64\" --target clean"
+  ],
+  "libraries": {
+    "native-ffplay-Debug-x86_64": {
+      "artifactName": "native-ffplay",
+      "buildCommand": "/home/awing/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build \"/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/x86_64\" --target native-ffplay",
+      "abi": "x86_64",
+      "output": "/home/awing/myworkspaces/affplay/app/build/intermediates/cmake/debug/obj/x86_64/libnative-ffplay.so"
+    }
+  }
+}

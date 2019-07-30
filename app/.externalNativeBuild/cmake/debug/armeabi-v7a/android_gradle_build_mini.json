@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/home/awing/Android/Sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/home/awing/myworkspaces/affplay/app/src/main/cpp/CMakeLists.txt",
+    "/home/awing/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/home/awing/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build \"/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target clean"
+  ],
+  "libraries": {
+    "ffplay-lib-Debug-armeabi-v7a": {
+      "artifactName": "ffplay-lib",
+      "buildCommand": "/home/awing/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build \"/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target ffplay-lib",
+      "abi": "armeabi-v7a",
+      "output": "/home/awing/myworkspaces/affplay/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libffplay-lib.so"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dffplay_lib_EXPORTS -I/home/awing/myworkspaces/affplay/app/src/main/cpp/include -I/home/awing/myworkspaces/affplay/app/src/main/cpp/include/sdl2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/ffplay-lib.dir/ffplay.c.o   -c /home/awing/myworkspaces/affplay/app/src/main/cpp/ffplay.c",
+  "file": "/home/awing/myworkspaces/affplay/app/src/main/cpp/ffplay.c"
+},
+
+{
+  "directory": "/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dffplay_lib_EXPORTS -I/home/awing/myworkspaces/affplay/app/src/main/cpp/include -I/home/awing/myworkspaces/affplay/app/src/main/cpp/include/sdl2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/ffplay-lib.dir/cmdutils.c.o   -c /home/awing/myworkspaces/affplay/app/src/main/cpp/cmdutils.c",
+  "file": "/home/awing/myworkspaces/affplay/app/src/main/cpp/cmdutils.c"
+},
+
+{
+  "directory": "/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dffplay_lib_EXPORTS -I/home/awing/myworkspaces/affplay/app/src/main/cpp/include -I/home/awing/myworkspaces/affplay/app/src/main/cpp/include/sdl2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/ffplay-lib.dir/NativeFfplayer.cpp.o -c /home/awing/myworkspaces/affplay/app/src/main/cpp/NativeFfplayer.cpp",
+  "file": "/home/awing/myworkspaces/affplay/app/src/main/cpp/NativeFfplayer.cpp"
+},
+
+{
+  "directory": "/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/awing/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dffplay_lib_EXPORTS -I/home/awing/myworkspaces/affplay/app/src/main/cpp/include -I/home/awing/myworkspaces/affplay/app/src/main/cpp/include/sdl2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/ffplay-lib.dir/JniRuntime.cpp.o -c /home/awing/myworkspaces/affplay/app/src/main/cpp/JniRuntime.cpp",
+  "file": "/home/awing/myworkspaces/affplay/app/src/main/cpp/JniRuntime.cpp"
+}
+]

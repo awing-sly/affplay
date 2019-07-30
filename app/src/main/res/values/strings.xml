@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">affplay</string>
+    <string name="open_file">open</string>
+    <string name="play_media">play</string>
+</resources>

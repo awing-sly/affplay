@@ -1,0 +1,3 @@
+/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/awing/myworkspaces/affplay/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/native-ffplay.dir
