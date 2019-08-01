@@ -5,4 +5,6 @@ affplay对ffpla.c进行了修改扩展，创建了Ffplayer，它实现了类似�
 另外，由于ffplay是基于SDL实现的，对SDLActivity.java文件进行修改，创建FfplaySdlActivity扩展继承SDLActivit,来更好的完成自定义功能。
 目前affplay实现了基本的播放控制，如暂停切换，停止，滑屏快进/快退，显示播放媒体总时长，获取当前播放位置等功能
 
+希望获取apk文件的，可以直接从目录app/apk/找到
+
 联系方式: shily1985@126.com
